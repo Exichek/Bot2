@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from PIL import Image
 
 # Токен вашего бота (замените на свой)
-BOT_TOKEN = "7320074229:AAG19mqnGv2wgIx1kn5x_dXAhl6ZQOThk-A"
+BOT_TOKEN = "YOURTOKEN"
 
 
 # Функция для генерации QR-кода
